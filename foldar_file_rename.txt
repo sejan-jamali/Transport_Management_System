@@ -1,0 +1,7 @@
+-------------------------------------------
+file/folder name  ==>  changed name/remove file
+--------------------------------------------
+page1copy==>index
+userfiles==>account,log.php,bus.php,busDetails_u.php,dbconnection.php,Hire_Availabe_bus.php,registration.php,s.php,statusHire.php,statusTicket.php,u_logout.php,hire.php
+userimages==>all user interface images,
+tms==>admin
